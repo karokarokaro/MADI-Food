@@ -11,6 +11,10 @@ body {
     background-color: #222;
 }
 
+th {
+    text-align: center;
+}
+
 @media(min-width:768px) {
     body {
         margin-top: 50px;
